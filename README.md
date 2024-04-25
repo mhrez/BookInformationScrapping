@@ -1,0 +1,2 @@
+# BookInformationScrapping
+Script RPA uipath BookInformationScrapping
